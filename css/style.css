@@ -73,13 +73,14 @@ img {
 }
 .buy-btn{
     margin-top: 5px;
-    background-color: #2f2a2d;
+    background-color: #ff7400;
     padding: 10px 20px;
     border: 1px solid transparent;
     color: #fafafa;
     border-radius: 5px;
     transition: all ease-in-out .4s;
     cursor: pointer;
+    width: 90%;
 }
 .buy-btn:hover{
     background-color: transparent;
